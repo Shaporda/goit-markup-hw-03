@@ -322,7 +322,7 @@ button:focus {
     gap: 32px;
     padding-left: 0;
     margin: 0;
-    width: calc((100%-72)/4);
+    width: calc((100% - 72) / 4);
     border-radius: 0px 0px 4px 4px;
     background-color: #FFFFFF
 }
