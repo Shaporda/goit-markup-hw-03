@@ -67,6 +67,7 @@ a {
     padding: 24px 0;
     margin-right: 76px;
     color: #4d5ae5;
+    display: block;
 }
 
 .header-logo-color {
@@ -104,11 +105,13 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-decoration: unset;
+    padding: 24px 0;
+    display: block;
 }
 
 .header-address-link {
     color: #2e2f42;
-    padding: 24px 0;
 }
 
 .header-address-link:focus {
@@ -124,6 +127,7 @@ address {
     color: #434455;
     margin-left: auto;
     margin-right: 0em;
+    padding: 24px 0;
 }
 
 .cotacts {
@@ -138,6 +142,9 @@ address {
     letter-spacing: 0.02em;
     color: #434455;
     font-family: "Roboto", sans-serif;
+    padding: 24px 0;
+    display: flex;
+    gap: 40px;
 }
 
 #header-address-link {
